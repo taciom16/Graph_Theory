@@ -256,12 +256,6 @@ elif sel == 2:
     # for ver in grafo.Vertices:
     #     vertice_cpy.append(ver)
 
-
-    '''for node in vertice_cpy:
-        for aresta in aresta_cpy:
-            if node in aresta: 
-                print(f'{node}:{aresta}')'''
-    
     #grafo.PlotGrafo()
 
     #print(list(grafo.adjascencia(2)))
